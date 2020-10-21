@@ -13,13 +13,17 @@ Short URL: https://git.io/secres
 - Hacking Lab 2.0: https://compass.hacking-lab.com/
 - Hacking Lab Live CD: https://livecd.hacking-lab.com/
 
+## General 🌳
+
+- Awesome Security: https://github.com/sbilly/awesome-security
+- Payload All The Things: https://github.com/swisskyrepo/PayloadsAllTheThings
+
 ## Web Application Security 🐝
 
 ### General
 
 - Compass Demo: https://www.compass-demo.com/
 - PortSwigger Online Seminar: https://portswigger.net/web-security
-- Payload All The Things: https://github.com/swisskyrepo/PayloadsAllTheThings
 - OWASP: https://owasp.org/
 - OWASP Top 10: https://owasp.org/www-project-top-ten/
 - OWASP Application Security Verification Standard (ASVS): https://owasp.org/www-project-application-security-verification-standard/
