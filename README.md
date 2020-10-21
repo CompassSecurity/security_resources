@@ -17,6 +17,7 @@ Short URL: https://git.io/secres
 
 - Awesome Security: https://github.com/sbilly/awesome-security
 - Payload All The Things: https://github.com/swisskyrepo/PayloadsAllTheThings
+- Cyber Chef: https://gchq.github.io/CyberChef/
 
 ## Web Application Security 🐝
 
@@ -75,14 +76,13 @@ Short URL: https://git.io/secres
 
 - Burp Suite: https://portswigger.net/burp/communitydownload
 - sqlmap: http://sqlmap.org/
-- Cyber Chef: https://gchq.github.io/CyberChef/
 - Burp Suite Extensions
   - SAML Raider: https://portswigger.net/bappstore/c61cfa893bb14db4b01775554f7b802e, https://github.com/CompassSecurity/SAMLRaider
   - JSON Web Tokens: https://portswigger.net/bappstore/f923cbf91698420890354c1d8958fee6, https://github.com/portswigger/json-web-tokens
 
 ### Hacking Environments
 
-- OWASP Web Goat: https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project
+- OWASP Web Goat: https://owasp.org/www-project-webgoat/
 - Damn Vulnerable Web Application: http://www.dvwa.co.uk/
 - OWASP JuiceShop: https://owasp.org/www-project-juice-shop/
 
@@ -105,7 +105,6 @@ Short URL: https://git.io/secres
 
 ## Cryptography 🔏
 
-- Cyber Chef: https://gchq.github.io/CyberChef/
 - Key Lengths: https://keylength.com
 
 ## Network Pentesting 💻
@@ -133,7 +132,6 @@ Short URL: https://git.io/secres
 - Hacking Tools Cheat Sheet: https://github.com/CompassSecurity/Hacking_Tools_Cheat_Sheet
 - Vulnerability Database: https://cvedetails.com/
 - Exploit Database: https://www.exploit-db.com/
-- Reverse Shell Cheat Sheet: http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 - Hak5 Gadget Shop: https://shop.hak5.org/
 
 ### Cracking
