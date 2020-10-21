@@ -41,6 +41,7 @@ Short URL: https://git.io/secres
 - CORS: https://www.w3.org/TR/2020/SPSD-cors-20200602/
 - HTTP/2 Explained: https://http2-explained.haxx.se/
 - HTTP/3 Explained: https://http3-explained.haxx.se/
+- HTTP/2 Speed Demo: https://http2.akamai.com/demo
 
 ### Authentication & Login
 
