@@ -17,7 +17,7 @@ Short URL: https://git.io/secres
 
 - Awesome Security: https://github.com/sbilly/awesome-security
 - Payload All The Things: https://github.com/swisskyrepo/PayloadsAllTheThings
-- Cyber Chef: https://gchq.github.io/CyberChef/
+- CyberChef: https://gchq.github.io/CyberChef/
 
 ## Web Application Security 🐝
 
@@ -29,7 +29,7 @@ Short URL: https://git.io/secres
 - OWASP Top 10: https://owasp.org/www-project-top-ten/
 - OWASP Application Security Verification Standard (ASVS): https://owasp.org/www-project-application-security-verification-standard/
 
-### HTTP / Web Basics
+### HTTP & Web Basics
 
 - HTTP Status Codes: https://httpstatuses.com/
 - Can I Use (Browser Support Matrix): https://caniuse.com/
@@ -110,9 +110,14 @@ Short URL: https://git.io/secres
 
 ## Network Pentesting 💻
 
+### General
+
+- Hacking Tools Cheat Sheet: https://github.com/CompassSecurity/Hacking_Tools_Cheat_Sheet
+
 ### Information Gathering & Wordlists
 
 - Amass: https://github.com/OWASP/Amass
+- Sublist3r: https://github.com/aboul3la/Sublist3r
 - Shodan: https://www.shodan.io/
 - Censys: https://censys.io/
 - Payload All The Things: https://github.com/swisskyrepo/PayloadsAllTheThings
@@ -126,14 +131,21 @@ Short URL: https://git.io/secres
 - XIP (IP DNS Name to IP Address): http://xip.io/
 - RequestBin.NET: http://requestbin.net/
 
-### Scanning / Exploiting
+### Scanning
 
 - Nmap: https://nmap.org/
+- Nmap-parse-output: https://github.com/ernw/nmap-parse-output
+- Aquatone: https://github.com/michenriksen/aquatone
+- SMBMap: https://github.com/ShawnDEvans/smbmap
+- Subjack: https://github.com/haccer/subjack
+
+### Exploiting
+
 - Metasploit: https://www.metasploit.com/
-- Hacking Tools Cheat Sheet: https://github.com/CompassSecurity/Hacking_Tools_Cheat_Sheet
 - Vulnerability Database: https://cvedetails.com/
 - Exploit Database: https://www.exploit-db.com/
 - Hak5 Gadget Shop: https://shop.hak5.org/
+- Covenant: https://github.com/cobbr/Covenant
 
 ### Cracking
 
@@ -149,20 +161,23 @@ Short URL: https://git.io/secres
 - Lynis: https://cisofy.com/lynis/
 - GTFOBins: https://gtfobins.github.io/
 
-### Windows Privilege Escalation
 
-- Mimikatz: https://github.com/gentilkiwi/mimikatz
+### Windows & Active Directory (AD)
+
+- Sysinternals: https://docs.microsoft.com/en-us/sysinternals/#sysinternals-live
+- Sysinternals Direct Download: https://live.sysinternals.com/
 - PowerSploit: https://github.com/PowerShellMafia/PowerSploit
-
-### AD / Windows Hacking
-
+- PowerUpSQL: https://github.com/NetSPI/PowerUpSQL
+- Mimikatz: https://github.com/gentilkiwi/mimikatz
 - Impacket: https://github.com/SecureAuthCorp/impacket
-- SMBMap: https://github.com/ShawnDEvans/smbmap
+- Responder: https://github.com/lgandx/Responder
 - CrackMapExec: https://github.com/byt3bl33d3r/CrackMapExec
-- PingCastle: https://www.pingcastle.com/
+- CredNinja: https://github.com/Raikia/CredNinja
 - BloodHound: https://github.com/BloodHoundAD/BloodHound
 - The Dog Whisperer's Handbook: https://www.ernw.de/download/BloodHoundWorkshop/ERNW_DogWhispererHandbook.pdf
 - Compass Custom BloodHound Queries: https://github.com/CompassSecurity/BloodHoundQueries
+- PingCastle: https://www.pingcastle.com/
+- Kerbrute: https://github.com/ropnop/kerbrute
 
 ### Hacking Environments
 
