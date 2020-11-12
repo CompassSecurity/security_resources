@@ -18,6 +18,8 @@ Short URL: https://git.io/secres
 - Awesome Security: https://github.com/sbilly/awesome-security
 - Payload All The Things: https://github.com/swisskyrepo/PayloadsAllTheThings
 - CyberChef: https://gchq.github.io/CyberChef/
+- Explain Shell Commands: https://explainshell.com/
+- Online Regex Tester & Debugger: https://regex101.com/
 
 ## Web Application Security 🐝
 
