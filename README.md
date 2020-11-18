@@ -21,6 +21,16 @@ Short URL: https://git.io/secres
 - Explain Shell Commands: https://explainshell.com/
 - Online Regex Tester & Debugger: https://regex101.com/
 
+## Talks & Videos 📹
+
+- media.ccc.de: https://media.ccc.de/
+- LiveOverflow: https://www.youtube.com/c/LiveOverflowCTF/
+- DEFCON Switzerland / Area41: https://www.youtube.com/user/defconswitzerland/
+- Swiss Cyber Storm: https://www.youtube.com/channel/UCY-Wb3JuBv_xpa8s6ZrpUxg/
+- Cooper Recordings: https://administraitor.video/
+- DEFCON: https://www.youtube.com/user/DEFCONConference/
+- Black Hat: https://www.youtube.com/user/BlackHatOfficialYT
+
 ## Web Application Security 🐝
 
 ### General
@@ -56,6 +66,7 @@ Short URL: https://git.io/secres
 
 - PortSwigger XSS Cheat Sheet: https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 - XSS Payloads: https://html5sec.org/
+- XSS Hunter: https://xsshunter.com/
 - XSS in Google Search Field: https://www.youtube.com/watch?v=lG7U3fuNw3A
 
 ### Cross-Site Request Forgery (CSRF)
