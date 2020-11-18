@@ -73,9 +73,10 @@ Short URL: https://git.io/secres
 
 - Same-Site Cookie Flag: https://tools.ietf.org/html/draft-ietf-httpbis-rfc6265bis-06
 
-### Content Security Policy (CSP)
+### Security Headers
 
-- CSP Evaluator: https://csp-evaluator.withgoogle.com/
+- Security Headers: https://securityheaders.com/
+- Content Security Policy (CSP) Evaluator: https://csp-evaluator.withgoogle.com/
 
 ### JSON Web Tokens (JWT)
 
@@ -110,6 +111,7 @@ Short URL: https://git.io/secres
 ### Online Services
 
 - SSL Labs (TLS Server Test): https://ssllabs.com
+- Hardenize: https://hardenize.com/
 - BadSSL: Weak TLS Configuration Test Page: https://badssl.com
 - Certificate Transparency Search: https://crt.sh/
 
@@ -120,6 +122,7 @@ Short URL: https://git.io/secres
 ## Cryptography 🔏
 
 - Key Lengths: https://keylength.com
+- Cryptopals Crypto Challenges: https://cryptopals.com/
 
 ## Network Pentesting 💻
 
@@ -141,7 +144,8 @@ Short URL: https://git.io/secres
 ### Online Services
 
 - PortQuiz: http://portquiz.net/
-- XIP (IP DNS Name to IP Address): http://xip.io/
+- xip.io (wildcard DNS): http://xip.io/
+- nip.io (wildcard DNS): https://nip.io/
 - RequestBin.NET: http://requestbin.net/
 
 ### Scanning
@@ -197,3 +201,4 @@ Short URL: https://git.io/secres
 - Hack-the-Box: https://www.hackthebox.eu/
 - Metasploitable: https://sourceforge.net/projects/metasploitable/
 - Root Me: https://www.root-me.org
+- VulnHub: https://www.vulnhub.com/
