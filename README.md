@@ -68,6 +68,7 @@ Short URL: https://git.io/secres
 - XSS Payloads: https://html5sec.org/
 - XSS Hunter: https://xsshunter.com/
 - XSS in Google Search Field: https://www.youtube.com/watch?v=lG7U3fuNw3A
+- Script Gadgets: https://github.com/google/security-research-pocs (bypass overview: https://github.com/google/security-research-pocs/blob/master/script-gadgets/bypasses.md)
 
 ### Cross-Site Request Forgery (CSRF)
 
@@ -76,7 +77,7 @@ Short URL: https://git.io/secres
 ### Security Headers
 
 - Security Headers: https://securityheaders.com/
-- Content Security Policy (CSP) Evaluator: https://csp-evaluator.withgoogle.com/
+- Content Security Policy (CSP) Evaluator: https://csp-evaluator.withgoogle.com/ (Code: https://github.com/google/csp-evaluator)
 
 ### JSON Web Tokens (JWT)
 
