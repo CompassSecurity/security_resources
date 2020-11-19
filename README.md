@@ -70,7 +70,7 @@ Short URL: https://git.io/secres
 - Dehashed Leaked Passwords Database: https://www.dehashed.com/
 - Hashes.org (Password Hash Databas): https://hashes.org/ 
 
-## OAuth 2.0 / OpenID Connect (OIDC)
+### OAuth 2.0 / OpenID Connect (OIDC)
 
 - OAuth.net: https://oauth.net/2/
 - OAuth 2.0 Simplified: https://www.oauth.com/
