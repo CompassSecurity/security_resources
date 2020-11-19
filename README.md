@@ -35,6 +35,12 @@ Short URL: https://git.io/secres
 
 ## Web Application Security 🐝
 
+## References
+
+- HTML Standard: https://html.spec.whatwg.org/
+- W3Schools: https://www.w3schools.com/
+- Mozilla Developer Network (MDN): https://developer.mozilla.org/
+
 ### General
 
 - Compass Demo: https://www.compass-demo.com/
