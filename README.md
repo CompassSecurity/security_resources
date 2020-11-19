@@ -95,6 +95,7 @@ Short URL: https://git.io/secres
 
 - JWT Decoder/Encoder: https://jwt.io/
 - Convert JWK to PEM: https://8gwifi.org/jwkconvertfunctions.jsp
+- PentesterLab JWT Cheat Sheet: https://assets.pentesterlab.com/jwt_security_cheatsheet/jwt_security_cheatsheet.pdf
 
 ### SQL Injection (SQLi)
 
