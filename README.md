@@ -76,6 +76,7 @@ Short URL: https://git.io/secres
 - OAuth 2.0 Simplified: https://www.oauth.com/
 - The OAuth 2.0 Authorization Framework, RFC 6749: https://tools.ietf.org/html/rfc6749
 - OAuth 2.0 Security Best Current Practice: https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16
+- OpenID Connect & OAuth 2.0 - Security Best Practices, Dominick Baier, 2020: https://www.youtube.com/watch?v=AUgZffkurK0
 - OAuth 2.0 for Browser-Based Apps: https://tools.ietf.org/html/draft-ietf-oauth-browser-based-apps-07
 
 ### Cross-Site Scripting (XSS)
