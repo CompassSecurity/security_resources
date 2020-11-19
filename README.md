@@ -160,6 +160,9 @@ Short URL: https://git.io/secres
 - xip.io (wildcard DNS): http://xip.io/
 - nip.io (wildcard DNS): https://nip.io/
 - RequestBin.NET: http://requestbin.net/
+- Various useful tools: https://h.43z.one/
+  - Request Logger: http://log.43z.one/
+  - IP Address Convertor (useful for SSRF): https://h.43z.one/ipconverter/
 
 ### Scanning
 
