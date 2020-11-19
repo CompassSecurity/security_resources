@@ -70,6 +70,14 @@ Short URL: https://git.io/secres
 - Dehashed Leaked Passwords Database: https://www.dehashed.com/
 - Hashes.org (Password Hash Databas): https://hashes.org/ 
 
+## OAuth 2.0 / OpenID Connect (OIDC)
+
+- OAuth.net: https://oauth.net/2/
+- OAuth 2.0 Simplified: https://www.oauth.com/
+- The OAuth 2.0 Authorization Framework, RFC 6749: https://tools.ietf.org/html/rfc6749
+- OAuth 2.0 Security Best Current Practice: https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16
+- OAuth 2.0 for Browser-Based Apps: https://tools.ietf.org/html/draft-ietf-oauth-browser-based-apps-07
+
 ### Cross-Site Scripting (XSS)
 
 - PortSwigger XSS Cheat Sheet: https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
