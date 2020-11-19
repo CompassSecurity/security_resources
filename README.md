@@ -20,6 +20,8 @@ Short URL: https://git.io/secres
 - CyberChef: https://gchq.github.io/CyberChef/
 - Explain Shell Commands: https://explainshell.com/
 - Online Regex Tester & Debugger: https://regex101.com/
+- Phrack: http://phrack.org/
+- PoC||GTFO: https://www.alchemistowl.org/pocorgtfo/
 
 ## Talks & Videos 📹
 
