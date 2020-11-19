@@ -69,8 +69,8 @@ Short URL: https://git.io/secres
 - PortSwigger XSS Cheat Sheet: https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 - XSS Payloads: https://html5sec.org/
 - XSS Hunter: https://xsshunter.com/
-- XSS in Google Search Field: https://www.youtube.com/watch?v=lG7U3fuNw3A
 - Script Gadgets: https://github.com/google/security-research-pocs (bypass overview: https://github.com/google/security-research-pocs/blob/master/script-gadgets/bypasses.md)
+- Browser Exploitation Framework (BeEF): https://beefproject.com/
 
 ### Cross-Site Request Forgery (CSRF)
 
@@ -97,6 +97,12 @@ Short URL: https://git.io/secres
 - Burp Suite Extensions
   - SAML Raider: https://portswigger.net/bappstore/c61cfa893bb14db4b01775554f7b802e, https://github.com/CompassSecurity/SAMLRaider
   - JSON Web Tokens: https://portswigger.net/bappstore/f923cbf91698420890354c1d8958fee6, https://github.com/portswigger/json-web-tokens
+
+### Attack Examples / Write-Ups
+
+- XSS in Electron App leads to RCE: https://blog.doyensec.com/2017/08/03/electron-framework-security.html
+- XSS in Google Search Field: https://www.youtube.com/watch?v=lG7U3fuNw3A
+- XSS in Tweetdeck Twitter Client: https://twitter.com/dergeruhn/status/476764918763749376?lang=en
 
 ### Hacking Environments
 
