@@ -238,3 +238,8 @@ Short URL: https://git.io/secres
 - Metasploitable: https://sourceforge.net/projects/metasploitable/
 - Root Me: https://www.root-me.org
 - VulnHub: https://www.vulnhub.com/
+
+## Social Engineering
+
+- Homograph Attacks: https://dev.to/logan/homographs-attack--5a1p
+  - Example: https://раураӏ.com/
