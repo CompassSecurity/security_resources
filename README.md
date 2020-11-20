@@ -189,6 +189,7 @@ Short URL: https://git.io/secres
 - Nmap-parse-output: https://github.com/ernw/nmap-parse-output
 - Aquatone: https://github.com/michenriksen/aquatone
 - SMBMap: https://github.com/ShawnDEvans/smbmap
+- Snaffler: https://github.com/SnaffCon/Snaffler
 - Subjack: https://github.com/haccer/subjack
 
 ### Exploiting
