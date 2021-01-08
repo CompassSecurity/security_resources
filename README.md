@@ -133,6 +133,7 @@ Short URL: https://git.io/secres
 
 ### TLS Information
 
+- SSL/TLS and PKI History: https://www.feistyduck.com/ssl-tls-and-pki-history/
 - Every Byte of a TLS Connection: https://tls.ulfheim.net/
 - Every Byte of a TLS Connection for TLS 1.3: https://tls13.ulfheim.net/
 
