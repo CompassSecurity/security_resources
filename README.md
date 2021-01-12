@@ -19,6 +19,7 @@ Short URL: https://git.io/secres
 - Payload All The Things: https://github.com/swisskyrepo/PayloadsAllTheThings
 - HackTricks: https://book.hacktricks.xyz/
 - CyberChef: https://gchq.github.io/CyberChef/
+- Useful Web Tools by @h43z: https://h.43z.one/
 - Explain Shell Commands: https://explainshell.com/
 - Online Regex Tester & Debugger: https://regex101.com/
 - Phrack: http://phrack.org/
@@ -174,6 +175,8 @@ Short URL: https://git.io/secres
 - VirusTotal: https://www.virustotal.com/
 - FuzzDB: https://github.com/fuzzdb-project/fuzzdb
 - SecLists: https://github.com/danielmiessler/SecLists
+- Rapid7 Open Data: https://opendata.rapid7.com/
+  - Rapid7 Project Sonar Forward DNS (FDNS): https://threat.lol/sonar
 
 ### Online Services
 
