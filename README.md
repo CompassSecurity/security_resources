@@ -155,7 +155,7 @@ Short URL: https://git.io/secres
 - Key Lengths: https://keylength.com
 - Cryptopals Crypto Challenges: https://cryptopals.com/
 
-## Container Security
+## Container Security 🐳
 
 - contained.af (separation examples): https://contained.af/
 
@@ -250,12 +250,12 @@ Short URL: https://git.io/secres
 - Root Me: https://www.root-me.org
 - VulnHub: https://www.vulnhub.com/
 
-## Social Engineering
+## Social Engineering 🎅
 
 - Homograph Attacks: https://dev.to/logan/homographs-attack--5a1p
   - Example: https://раураӏ.com/
 
-## Mobile Application Security
+## Mobile Application Security 📱
 
 - Frida Hooking Framework: https://frida.re/
 - Frida Hooks Collection: https://codeshare.frida.re/
