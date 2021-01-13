@@ -254,3 +254,15 @@ Short URL: https://git.io/secres
 
 - Homograph Attacks: https://dev.to/logan/homographs-attack--5a1p
   - Example: https://раураӏ.com/
+
+## Mobile Application Security
+
+- Frida Hooking Framework: https://frida.re/
+- Frida Hooks Collection: https://codeshare.frida.re/
+- objection - Runtime Mobile Exploration: https://github.com/sensepost/objection
+
+### Android
+
+- F-Secure Android Keystore Audit
+  - Blogpost: https://labs.f-secure.com/blog/how-secure-is-your-android-keystore-authentication/
+  - GitHub Project: https://github.com/FSecureLABS/android-keystore-audit
