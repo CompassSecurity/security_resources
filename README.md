@@ -37,7 +37,7 @@ Short URL: https://git.io/secres
 
 ## Web Application Security 🐝
 
-## References
+### References
 
 - HTML Standard: https://html.spec.whatwg.org/
 - W3Schools: https://www.w3schools.com/
