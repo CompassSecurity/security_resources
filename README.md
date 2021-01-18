@@ -1,7 +1,7 @@
 # Security Resources 📖
 
 Links to online resources & tools we use during our web application / network
-security courses.
+security [courses](https://compass-security.com/en/trainings).
 
 Short URL: https://git.io/secres
 
