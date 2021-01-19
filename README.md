@@ -257,6 +257,8 @@ Short URL: https://git.io/secres
 
 ## Mobile Application Security 📱
 
+### General
+
 - Frida Hooking Framework: https://frida.re/
 - Frida Hooks Collection: https://codeshare.frida.re/
 - objection - Runtime Mobile Exploration: https://github.com/sensepost/objection
