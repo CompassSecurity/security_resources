@@ -108,8 +108,12 @@ Short URL: https://git.io/secres
 ### JSON Web Tokens (JWT)
 
 - JWT Decoder/Encoder: https://jwt.io/
-- Convert JWK to PEM: https://8gwifi.org/jwkconvertfunctions.jsp
 - PentesterLab JWT Cheat Sheet: https://assets.pentesterlab.com/jwt_security_cheatsheet/jwt_security_cheatsheet.pdf
+- Convert JWK to PEM:
+  - Crypto Playground: https://8gwifi.org/jwkconvertfunctions.jsp
+  - Keytool: https://keytool.online/
+- Attack Examples
+  - pyjwt vulnerability fix (algorithm confusion): https://github.com/jpadilla/pyjwt/commit/88a9fc56bdc6c870aa6af93bda401414a217db2a & https://github.com/jpadilla/pyjwt/commit/37926ea0dd207db070b45473438853447e4c1392
 
 ### SQL Injection (SQLi)
 
@@ -157,6 +161,7 @@ Short URL: https://git.io/secres
 
 - Key Lengths: https://keylength.com
 - Cryptopals Crypto Challenges: https://cryptopals.com/
+- Key generation / conversion: https://keytool.online/
 
 ## Container Security 🐳
 
