@@ -82,6 +82,7 @@ Short URL: https://git.io/secres
 - OAuth 2.0 Security Best Current Practice: https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16
 - OpenID Connect & OAuth 2.0 - Security Best Practices, Dominick Baier, 2020: https://www.youtube.com/watch?v=AUgZffkurK0
 - OAuth 2.0 for Browser-Based Apps: https://tools.ietf.org/html/draft-ietf-oauth-browser-based-apps-07
+- OIDC Discovery: https://auth0.com/docs/protocols/configure-applications-with-oidc-discovery)
 
 ### Cross-Site Scripting (XSS)
 
