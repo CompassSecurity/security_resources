@@ -3,6 +3,8 @@
 Links to online resources & tools we use during our web application / network
 security [courses](https://compass-security.com/en/trainings).
 
+You can create a PR or open an issue if you think we missed a useful resource.
+
 Short URL: https://git.io/secres
 
 ## Compass Security 🧭
