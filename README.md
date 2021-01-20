@@ -99,6 +99,7 @@ Short URL: https://git.io/secres
 ### Cross-Site Request Forgery (CSRF)
 
 - Same-Site Cookie Flag: https://tools.ietf.org/html/draft-ietf-httpbis-rfc6265bis-06
+- Public Suffix List (https://publicsuffix.org): https://publicsuffix.org/list/public_suffix_list.dat
 
 ### Security Headers
 
