@@ -72,7 +72,7 @@ Short URL: https://git.io/secres
 - Have I Been Pwned (Password Leaks): https://haveibeenpwned.com/
 - Pwned Passwords: https://haveibeenpwned.com/Passwords
 - Dehashed Leaked Passwords Database: https://www.dehashed.com/
-- Hashes.org (Password Hash Databas): https://hashes.org/ 
+- Hashes.org (Password Hash Database): https://hashes.org/ 
 
 ### OAuth 2.0 / OpenID Connect (OIDC)
 
@@ -226,7 +226,6 @@ Short URL: https://git.io/secres
 - linPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 - Lynis: https://cisofy.com/lynis/
 - GTFOBins: https://gtfobins.github.io/
-
 
 ### Windows & Active Directory (AD)
 
