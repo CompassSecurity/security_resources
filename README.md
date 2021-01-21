@@ -132,6 +132,7 @@ Short URL: https://git.io/secres
 - Burp Suite Extensions
   - SAML Raider: https://portswigger.net/bappstore/c61cfa893bb14db4b01775554f7b802e, https://github.com/CompassSecurity/SAMLRaider
   - JSON Web Tokens: https://portswigger.net/bappstore/f923cbf91698420890354c1d8958fee6, https://github.com/portswigger/json-web-tokens
+- Talk "Automated security testing for Software Developers who dont know security!" (shows how to use OWASP ZAP in a CI/CD pipeline): https://media.ccc.de/v/Camp2019-10181-automated_security_testing_for_software_developers_who_dont_know_security
 
 ### Hacking Environments
 
