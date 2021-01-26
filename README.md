@@ -163,6 +163,7 @@ Short URL: https://git.io/secres
 
 - Key Lengths: https://keylength.com
 - Cryptopals Crypto Challenges: https://cryptopals.com/
+- CryptoHack: https://cryptohack.org/
 - Key generation / conversion: https://keytool.online/
 
 ## Container Security 🐳
