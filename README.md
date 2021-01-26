@@ -228,6 +228,7 @@ Short URL: https://git.io/secres
 - Hydra: https://github.com/vanhauser-thc/thc-hydra
 - Hashcat: https://hashcat.net/hashcat/
 - John The Ripper: https://www.openwall.com/john/
+- Talk "G1234! - Password Cracking 201: Beyond the Basics - Royce Williams": https://www.youtube.com/watch?v=cSOjQI0qbuU
 
 ### Linux Privilege Escalation
 
