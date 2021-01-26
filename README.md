@@ -20,6 +20,7 @@ Short URL: https://git.io/secres
 - Awesome Security: https://github.com/sbilly/awesome-security
 - Payload All The Things: https://github.com/swisskyrepo/PayloadsAllTheThings
 - HackTricks: https://book.hacktricks.xyz/
+- InfoSec Reference That Doesn't Suck!(Much): https://rmusser.net/docs/index.html
 - CyberChef: https://gchq.github.io/CyberChef/
 - Useful Web Tools by @h43z: https://h.43z.one/
 - Explain Shell Commands: https://explainshell.com/
