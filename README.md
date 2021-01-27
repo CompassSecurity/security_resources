@@ -17,19 +17,27 @@ Short URL: https://git.io/secres
 
 ## General 🌳
 
+### Link Lists
+
 - Awesome Security: https://github.com/sbilly/awesome-security
 - Payload All The Things: https://github.com/swisskyrepo/PayloadsAllTheThings
 - HackTricks: https://book.hacktricks.xyz/
 - InfoSec Reference That Doesn't Suck!(Much): https://rmusser.net/docs/index.html
 - Awesome Penetration Testing: https://github.com/enaqx/awesome-pentest
+
+### Online Tools
+
 - CyberChef: https://gchq.github.io/CyberChef/
 - Useful Web Tools by @h43z: https://h.43z.one/
 - Explain Shell Commands: https://explainshell.com/
 - Online Regex Tester & Debugger: https://regex101.com/
+
+### Reading
+
 - Phrack: http://phrack.org/
 - PoC||GTFO: https://www.alchemistowl.org/pocorgtfo/
 
-## Talks & Videos 📹
+### Talks & Videos
 
 - media.ccc.de: https://media.ccc.de/
 - LiveOverflow: https://www.youtube.com/c/LiveOverflowCTF/
