@@ -124,7 +124,10 @@ Short URL: https://git.io/secres
   - Crypto Playground: https://8gwifi.org/jwkconvertfunctions.jsp
   - Keytool: https://keytool.online/
 - Attack Examples
-  - pyjwt vulnerability fix (algorithm confusion): https://github.com/jpadilla/pyjwt/commit/88a9fc56bdc6c870aa6af93bda401414a217db2a & https://github.com/jpadilla/pyjwt/commit/37926ea0dd207db070b45473438853447e4c1392
+    - Algorithm Confusion
+      - Auth0 Info: https://auth0.com/blog/critical-vulnerabilities-in-json-web-token-libraries/
+      - pyjwt CVE-2017-11424: https://www.cvedetails.com/cve/CVE-2017-11424/
+      - pyjwt fix: https://github.com/jpadilla/pyjwt/commit/88a9fc56bdc6c870aa6af93bda401414a217db2a, https://github.com/jpadilla/pyjwt/commit/37926ea0dd207db070b45473438853447e4c1392
 
 ### SQL Injection (SQLi)
 
