@@ -277,6 +277,7 @@ Short URL: https://git.io/secres
 ## Social Engineering 🎅
 
 - Homograph Attacks: https://dev.to/logan/homographs-attack--5a1p
+  - Tool: https://github.com/evilsocket/ditto
   - Example: https://раураӏ.com/
 
 ## Mobile Application Security 📱
