@@ -249,6 +249,7 @@ Short URL: https://git.io/secres
 - linPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 - Lynis: https://cisofy.com/lynis/
 - GTFOBins: https://gtfobins.github.io/
+  - GTFOBLookup: https://github.com/nccgroup/GTFOBLookup
 
 ### Windows & Active Directory (AD)
 
