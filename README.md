@@ -251,6 +251,7 @@ Short URL: https://git.io/secres
 - GTFOBins: https://gtfobins.github.io/
   - GTFOBLookup: https://github.com/nccgroup/GTFOBLookup
 - pspy (unprivileged Linux process snooping): https://github.com/DominicBreuker/pspy
+- LES (Linux Exploit Suggester): https://github.com/mzet-/linux-exploit-suggester
 
 ### Windows & Active Directory (AD)
 
