@@ -250,6 +250,7 @@ Short URL: https://git.io/secres
 - Lynis: https://cisofy.com/lynis/
 - GTFOBins: https://gtfobins.github.io/
   - GTFOBLookup: https://github.com/nccgroup/GTFOBLookup
+- pspy (unprivileged Linux process snooping): https://github.com/DominicBreuker/pspy
 
 ### Windows & Active Directory (AD)
 
