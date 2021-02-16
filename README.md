@@ -41,6 +41,9 @@ Short URL: https://git.io/secres
 
 - media.ccc.de: https://media.ccc.de/
 - LiveOverflow: https://www.youtube.com/c/LiveOverflowCTF/
+- Stacksmashing: https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw
+- IppSec (Hack The Box Walkthroughs): https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
+- /dev/null: https://www.youtube.com/channel/UCGISJ8ZHkmIv1CaoHovK-Xw
 - DEFCON Switzerland / Area41: https://www.youtube.com/user/defconswitzerland/
 - Swiss Cyber Storm: https://www.youtube.com/channel/UCY-Wb3JuBv_xpa8s6ZrpUxg/
 - Cooper Recordings: https://administraitor.video/
