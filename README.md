@@ -248,13 +248,15 @@ Short URL: https://git.io/secres
 
 ### Linux Privilege Escalation
 
-- LinEnum: https://github.com/rebootuser/LinEnum
-- linPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
-- Lynis: https://cisofy.com/lynis/
-- GTFOBins: https://gtfobins.github.io/
+- Enumeration
+  - LinEnum: https://github.com/rebootuser/LinEnum
+  - linPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
+  - pspy (unprivileged Linux process snooping): https://github.com/DominicBreuker/pspy
+  - Lynis: https://cisofy.com/lynis/
+- Exploitation
+  - LES (Linux Exploit Suggester): https://github.com/mzet-/linux-exploit-suggester
+  - GTFOBins: https://gtfobins.github.io/
   - GTFOBLookup: https://github.com/nccgroup/GTFOBLookup
-- pspy (unprivileged Linux process snooping): https://github.com/DominicBreuker/pspy
-- LES (Linux Exploit Suggester): https://github.com/mzet-/linux-exploit-suggester
 
 ### Windows & Active Directory (AD)
 
