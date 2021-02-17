@@ -257,6 +257,8 @@ Short URL: https://git.io/secres
   - LES (Linux Exploit Suggester): https://github.com/mzet-/linux-exploit-suggester
   - GTFOBins: https://gtfobins.github.io/
   - GTFOBLookup: https://github.com/nccgroup/GTFOBLookup
+- Techniques
+  - Hacktricks Linux Privilege Escalation: https://book.hacktricks.xyz/linux-unix/privilege-escalation
 
 ### Windows & Active Directory (AD)
 
