@@ -270,15 +270,15 @@ Short URL: https://git.io/secres
   - Lynis: https://cisofy.com/lynis/
 - Privilege Escalation Methods
   - Sudo privesc on Compass Blog: https://blog.compass-security.com/tag/sudo/
-  - HackTricks: https://book.hacktricks.xyz/linux-unix/linux-privilege-escalation-checklist and https://book.hacktricks.xyz/linux-unix/privilege-escalation
-  - PayloadsAllTheThings: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md
+  - HackTricks Linux Privilege Escalation: https://book.hacktricks.xyz/linux-unix/linux-privilege-escalation-checklist and https://book.hacktricks.xyz/linux-unix/privilege-escalation
+  - PayloadsAllTheThings Linux Privilege Escalation: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md
   - Back To The Future: Unix Wildcards Gone Wild (Wildcard Injection): https://www.exploit-db.com/papers/33930
 - Exploitation Tools
   - LES (Linux Exploit Suggester): https://github.com/mzet-/linux-exploit-suggester
   - GTFOBins: https://gtfobins.github.io/
   - GTFOBLookup: https://github.com/nccgroup/GTFOBLookup
-- Techniques
-  - Hacktricks Linux Privilege Escalation: https://book.hacktricks.xyz/linux-unix/privilege-escalation
+- Hardening
+  - Distribution Independent Linux CIS Benchmark: https://www.cisecurity.org/benchmark/distribution_independent_linux/
 
 ### Windows & Active Directory (AD)
 
