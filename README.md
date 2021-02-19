@@ -224,6 +224,20 @@ Short URL: https://git.io/secres
 - Snaffler: https://github.com/SnaffCon/Snaffler
 - Subjack: https://github.com/haccer/subjack
 
+### Sniffing
+
+- Sniffing Tools
+  - tcpdump: https://www.tcpdump.org/
+  - Wireshark / Tshark: https://www.wireshark.org/
+- PCAP Collection
+  - Wireshark Samle Captures: https://wiki.wireshark.org/SampleCaptures
+- Sniffing Analysis
+  - PacketTotal: https://packettotal.com/
+  - A-Packets: https://apackets.com/
+- Extract credentials from network interfaces / PCAP files
+  - net-creds: https://github.com/DanMcInerney/net-creds
+  - PCredz: https://github.com/lgandx/PCredz
+
 ### Protocols
 
 - DNSViz (show DNSSEC chain): https://dnsviz.net/
