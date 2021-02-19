@@ -266,8 +266,14 @@ Short URL: https://git.io/secres
   - LinEnum: https://github.com/rebootuser/LinEnum
   - linPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
   - pspy (unprivileged Linux process snooping): https://github.com/DominicBreuker/pspy
+  - Glyptodon (search for suspicious files): https://blog.sevagas.com/?-Glyptodon
   - Lynis: https://cisofy.com/lynis/
-- Exploitation
+- Privilege Escalation Methods
+  - Sudo privesc on Compass Blog: https://blog.compass-security.com/tag/sudo/
+  - HackTricks: https://book.hacktricks.xyz/linux-unix/linux-privilege-escalation-checklist and https://book.hacktricks.xyz/linux-unix/privilege-escalation
+  - PayloadsAllTheThings: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md
+  - Back To The Future: Unix Wildcards Gone Wild (Wildcard Injection): https://www.exploit-db.com/papers/33930
+- Exploitation Tools
   - LES (Linux Exploit Suggester): https://github.com/mzet-/linux-exploit-suggester
   - GTFOBins: https://gtfobins.github.io/
   - GTFOBLookup: https://github.com/nccgroup/GTFOBLookup
