@@ -203,7 +203,6 @@ Short URL: https://git.io/secres
 - FuzzDB: https://github.com/fuzzdb-project/fuzzdb
 - SecLists: https://github.com/danielmiessler/SecLists
 - Rapid7 Open Data: https://opendata.rapid7.com/
-  - Rapid7 Project Sonar Forward DNS (FDNS): https://threat.lol/sonar
 
 ### Online Services
 
