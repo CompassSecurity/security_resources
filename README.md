@@ -65,6 +65,7 @@ Short URL: https://git.io/secres
 - OWASP: https://owasp.org/
 - OWASP Top 10: https://owasp.org/www-project-top-ten/
 - OWASP Application Security Verification Standard (ASVS): https://owasp.org/www-project-application-security-verification-standard/
+- Stanford Web Security Class: https://web.stanford.edu/class/cs253/
 
 ### HTTP & Web Basics
 
