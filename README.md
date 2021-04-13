@@ -25,6 +25,10 @@ Short URL: https://git.io/secres
 - InfoSec Reference That Doesn't Suck!(Much): https://rmusser.net/docs/index.html
 - Awesome Penetration Testing: https://github.com/enaqx/awesome-pentest
 
+### Tutorials
+
+- Various Security Topics from Ostschweizer Fachhochschule (OST): https://github.com/strongX509/cyber/
+
 ### Online Tools
 
 - CyberChef: https://gchq.github.io/CyberChef/
