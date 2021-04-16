@@ -27,7 +27,7 @@ Short URL: https://git.io/secres
 
 ### Tutorials
 
-- Various Security Topics from Ostschweizer Fachhochschule (OST): https://github.com/strongX509/cyber/
+- Various Security Tutorials by Prof. Andreas Steffen, strongSec GmbH: https://github.com/strongX509/cyber/
 
 ### Online Tools
 
