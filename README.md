@@ -85,6 +85,10 @@ Short URL: https://git.io/secres
 - HTTP/3 Explained: https://http3-explained.haxx.se/
 - HTTP/2 Speed Demo: https://http2.akamai.com/demo
 
+### Reverse Proxies
+
+- Weird Proxies: https://github.com/GrrrDog/weird_proxies
+
 ### Authentication & Login
 
 - Have I Been Pwned (Password Leaks): https://haveibeenpwned.com/
