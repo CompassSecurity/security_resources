@@ -324,6 +324,11 @@ Short URL: https://git.io/secres
 
 ### Android
 
+- Frida
+  - Frida Hook Examples: https://github.com/antojoseph/frida-android-hooks
+  - Frida Code Share: https://codeshare.frida.re/browse
+  - Frida Code Snippets for Android: https://erev0s.com/blog/frida-code-snippets-for-android/
 - F-Secure Android Keystore Audit
   - Blogpost: https://labs.f-secure.com/blog/how-secure-is-your-android-keystore-authentication/
   - GitHub Project: https://github.com/FSecureLABS/android-keystore-audit
+
