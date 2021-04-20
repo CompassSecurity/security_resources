@@ -290,20 +290,23 @@ Short URL: https://git.io/secres
 
 ### Windows & Active Directory (AD)
 
-- Sysinternals: https://docs.microsoft.com/en-us/sysinternals/#sysinternals-live
-- Sysinternals Direct Download: https://live.sysinternals.com/
-- PowerSploit: https://github.com/PowerShellMafia/PowerSploit
-- PowerUpSQL: https://github.com/NetSPI/PowerUpSQL
-- Mimikatz: https://github.com/gentilkiwi/mimikatz
-- Impacket: https://github.com/SecureAuthCorp/impacket
-- Responder: https://github.com/lgandx/Responder
-- CrackMapExec: https://github.com/byt3bl33d3r/CrackMapExec
-- CredNinja: https://github.com/Raikia/CredNinja
-- BloodHound: https://github.com/BloodHoundAD/BloodHound
-- The Dog Whisperer's Handbook: https://www.ernw.de/download/BloodHoundWorkshop/ERNW_DogWhispererHandbook.pdf
-- Compass Custom BloodHound Queries: https://github.com/CompassSecurity/BloodHoundQueries
-- PingCastle: https://www.pingcastle.com/
-- Kerbrute: https://github.com/ropnop/kerbrute
+- Attacks / Methodologies
+  - AD Exploitation Cheat Sheet: https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
+  - The Dog Whisperer's Handbook: https://www.ernw.de/download/BloodHoundWorkshop/ERNW_DogWhispererHandbook.pdf
+- Tools
+  - Sysinternals: https://docs.microsoft.com/en-us/sysinternals/#sysinternals-live
+  - Sysinternals Direct Download: https://live.sysinternals.com/
+  - PowerSploit: https://github.com/PowerShellMafia/PowerSploit
+  - PowerUpSQL: https://github.com/NetSPI/PowerUpSQL
+  - Mimikatz: https://github.com/gentilkiwi/mimikatz
+  - Impacket: https://github.com/SecureAuthCorp/impacket
+  - Responder: https://github.com/lgandx/Responder
+  - CrackMapExec: https://github.com/byt3bl33d3r/CrackMapExec
+  - CredNinja: https://github.com/Raikia/CredNinja
+  - BloodHound: https://github.com/BloodHoundAD/BloodHound
+  - Compass Custom BloodHound Queries: https://github.com/CompassSecurity/BloodHoundQueries
+  - PingCastle: https://www.pingcastle.com/
+  - Kerbrute: https://github.com/ropnop/kerbrute
 
 ### Hacking Environments
 
@@ -335,4 +338,3 @@ Short URL: https://git.io/secres
 - F-Secure Android Keystore Audit
   - Blogpost: https://labs.f-secure.com/blog/how-secure-is-your-android-keystore-authentication/
   - GitHub Project: https://github.com/FSecureLABS/android-keystore-audit
-
