@@ -291,8 +291,17 @@ Short URL: https://git.io/secres
 ### Windows & Active Directory (AD)
 
 - Attacks / Methodologies
+  - Active Directory Security: https://adsecurity.org/
   - AD Exploitation Cheat Sheet: https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
   - The Dog Whisperer's Handbook: https://www.ernw.de/download/BloodHoundWorkshop/ERNW_DogWhispererHandbook.pdf
+  - Not A Security Boundary: Breaking Forest Trusts: https://posts.specterops.io/not-a-security-boundary-breaking-forest-trusts-cd125829518d
+- Kerberos
+  - CVE-2020-17049: Kerberos Bronze Bit Attack Theory: https://www.netspi.com/blog/technical/network-penetration-testing/cve-2020-17049-kerberos-bronze-bit-theory/
+  - Wagging the Dog: Abusing Resource-Based Constrained Delegation to Attack Active Directory: https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html
+  - Active Directory Security Risk #101: Kerberos Unconstrained Delegation (or How Compromise of a Single Server Can Compromise the Domain): https://adsecurity.org/?p=1667
+  - Kerberos Attack Cheat Sheet: https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a
+- Best Practices
+  - Domain-Join Computers the Proper Way: https://blog.compass-security.com/2020/03/domain-join-computers-the-proper-way/
 - Tools
   - Sysinternals: https://docs.microsoft.com/en-us/sysinternals/#sysinternals-live
   - Sysinternals Direct Download: https://live.sysinternals.com/
