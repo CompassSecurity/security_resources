@@ -24,6 +24,7 @@ Short URL: https://git.io/secres
 - HackTricks: https://book.hacktricks.xyz/
 - InfoSec Reference That Doesn't Suck!(Much): https://rmusser.net/docs/index.html
 - Awesome Penetration Testing: https://github.com/enaqx/awesome-pentest
+- Public Pentest Reports: https://github.com/juliocesarfort/public-pentesting-reports
 
 ### Tutorials
 
