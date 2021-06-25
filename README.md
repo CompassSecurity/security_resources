@@ -331,6 +331,10 @@ Short URL: https://git.io/secres
   - PingCastle: https://www.pingcastle.com/
   - Kerbrute: https://github.com/ropnop/kerbrute
 
+### Cloud ☁️
+
+- A Cloud Guru Online Trainings: https://acloudguru.com/
+
 ### Hacking Environments
 
 - Hack-the-Box: https://www.hackthebox.eu/
