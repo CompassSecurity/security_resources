@@ -67,8 +67,20 @@ Short URL: https://git.io/secres
 - Compass Demo: https://www.compass-demo.com/
 - PortSwigger Online Seminar: https://portswigger.net/web-security
 - OWASP: https://owasp.org/
-- OWASP Top 10: https://owasp.org/www-project-top-ten/
-- OWASP Application Security Verification Standard (ASVS): https://owasp.org/www-project-application-security-verification-standard/
+  - OWASP Top 10
+    - Project Page: https://owasp.org/www-project-top-ten/
+    - New Project Page: https://www.owasptopten.org/
+    - GitHub: https://github.com/OWASP/Top10
+  - OWASP Application Security Verification Standard (ASVS)
+    - Project Page: https://owasp.org/www-project-application-security-verification-standard/
+    - GitHub: https://github.com/OWASP/ASVS
+  - API Security: https://www2.owasp.org/www-project-api-security/
+  - Cheat Sheet Series: https://cheatsheetseries.owasp.org/
+  - Juice Shop
+    - Project Page: https://owasp-juice.shop/, https://owasp.org/www-project-juice-shop/
+    - GitHub: https://github.com/bkimminich/juice-shop
+    - Companion Guide: https://pwning.owasp-juice.shop/
+    - Demo: https://juice-shop.herokuapp.com/
 - Stanford Web Security Class: https://web.stanford.edu/class/cs253/
 
 ### HTTP & Web Basics
