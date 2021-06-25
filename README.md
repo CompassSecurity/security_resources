@@ -331,13 +331,15 @@ Short URL: https://git.io/secres
   - PingCastle: https://www.pingcastle.com/
   - Kerbrute: https://github.com/ropnop/kerbrute
 
-### Cloud ☁️
+### Cloud
 
 - A Cloud Guru Online Trainings: https://acloudguru.com/
 
 ### Hacking Environments
 
-- Hack-the-Box: https://www.hackthebox.eu/
+- Hack the Box: https://www.hackthebox.eu/
+- Hack the Box Academy: https://academy.hackthebox.eu/
+- PentesterLab: https://pentesterlab.com/
 - Metasploitable: https://sourceforge.net/projects/metasploitable/
 - Root Me: https://www.root-me.org
 - VulnHub: https://www.vulnhub.com/
