@@ -260,6 +260,15 @@ Short URL: https://git.io/secres
   - net-creds: https://github.com/DanMcInerney/net-creds
   - PCredz: https://github.com/lgandx/PCredz
 
+## Protocol Hacking
+
+- Network Programming in Python: https://0xbharath.github.io/python-network-programming/
+- Python Foundations: https://0xbharath.github.io/python-foundations/
+- Scapy: https://scapy.net/
+- Workshop: The Art of Packet Crafting with Scapy by @0xbharath
+  - GitHub: https://github.com/0xbharath/art-of-packet-crafting-with-scapy
+  - Online Notes: https://scapy.disruptivelabs.in/
+
 ### Protocols
 
 - DNSViz (show DNSSEC chain): https://dnsviz.net/
