@@ -344,6 +344,11 @@ Short URL: https://git.io/secres
 
 - A Cloud Guru Online Trainings: https://acloudguru.com/
 
+### Container
+
+- Practical Docker Security: https://docs.google.com/presentation/d/1jZkq-osQYOCcpR6gU2V1M7JvM4MsazcgVpvGqOUIh-s/edit#slide=id.g4405d38279_0_218
+- Bad Pods: Kubernetes Pod Privilege Escalation: https://labs.bishopfox.com/tech-blog/bad-pods-kubernetes-pod-privilege-escalation#pod8
+
 ### Hacking Environments
 
 - Hack the Box: https://www.hackthebox.eu/
