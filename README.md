@@ -274,6 +274,7 @@ Short URL: https://git.io/secres
 - DNSViz (show DNSSEC chain): https://dnsviz.net/
 - Public .ch DNS Zone: https://www.switch.ch/open-data/#tab-c5442a19-67cf-11e8-9cf6-5254009dc73c-3
   - Search Tool: https://search-ch-domains.idocker.hacking-lab.com/
+- Email Infrastructure: https://www.hardenize.com/labs/policy?s=09
 
 ### Exploiting
 
