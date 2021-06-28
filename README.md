@@ -319,6 +319,7 @@ Short URL: https://git.io/secres
   - AD Exploitation Cheat Sheet: https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
   - The Dog Whisperer's Handbook: https://www.ernw.de/download/BloodHoundWorkshop/ERNW_DogWhispererHandbook.pdf
   - Not A Security Boundary: Breaking Forest Trusts: https://posts.specterops.io/not-a-security-boundary-breaking-forest-trusts-cd125829518d
+  - Attacking Active Directory: 0 to 0.9: https://zer1t0.gitlab.io/posts/attacking_ad/?s=09
 - Kerberos
   - CVE-2020-17049: Kerberos Bronze Bit Attack Theory: https://www.netspi.com/blog/technical/network-penetration-testing/cve-2020-17049-kerberos-bronze-bit-theory/
   - Wagging the Dog: Abusing Resource-Based Constrained Delegation to Attack Active Directory: https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html
