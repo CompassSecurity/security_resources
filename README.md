@@ -355,7 +355,6 @@ Short URL: https://git.io/secres
 
 ### Container
 
-- Bad Pods: Kubernetes Pod Privilege Escalation: https://labs.bishopfox.com/tech-blog/bad-pods-kubernetes-pod-privilege-escalation#pod8
 - Docker Security
   - How Containers Work!, Julia Evans, https://jvns.ca/blog/2020/04/27/new-zine-how-containers-work/
   - Practical Docker Security: https://docs.google.com/presentation/d/1jZkq-osQYOCcpR6gU2V1M7JvM4MsazcgVpvGqOUIh-s/edit#slide=id.g4405d38279_0_218
@@ -369,6 +368,8 @@ Short URL: https://git.io/secres
   - Docker Capabilities and no-new-privileges: https://raesene.github.io/blog/2019/06/01/docker-capabilities-and-no-new-privs/
   - Dockerfile Best Practices: https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
   - Docker Images 10 Tips: https://snyk.io/blog/10-docker-image-security-best-practices/
+- Kubernetes
+  - Bad Pods: Kubernetes Pod Privilege Escalation: https://labs.bishopfox.com/tech-blog/bad-pods-kubernetes-pod-privilege-escalation#pod8
 
 ### Hacking Environments
 
