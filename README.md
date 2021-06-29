@@ -140,6 +140,7 @@ Short URL: https://git.io/secres
 
 - Security Headers: https://securityheaders.com/
 - Content Security Policy (CSP) Evaluator: https://csp-evaluator.withgoogle.com/ (Code: https://github.com/google/csp-evaluator)
+- HSTS Preloading: https://hstspreload.org
 
 ### JSON Web Tokens (JWT)
 
