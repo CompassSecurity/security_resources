@@ -82,6 +82,12 @@ Short URL: https://git.io/secres
     - GitHub: https://github.com/bkimminich/juice-shop
     - Companion Guide: https://pwning.owasp-juice.shop/
     - Demo: https://juice-shop.herokuapp.com/
+  - OWASP Switzerland
+    - Chapter Page: https://owasp.org/www-chapter-switzerland/
+    - Mailing List: https://groups.google.com/a/owasp.org/forum/#!forum/switzerland-chapter
+    - Twitter: https://twitter.com/owasp_ch
+    - YouTube: https://www.youtube.com/channel/UCut4rjo2pUSdtnX3hUbi9_Q
+    - Presentation Slides Repo:https://github.com/OWASP/www-chapter-switzerland/tree/master/assets/slides
 - Stanford Web Security Class: https://web.stanford.edu/class/cs253/
 
 ### HTTP & Web Basics
