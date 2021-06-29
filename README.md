@@ -355,8 +355,19 @@ Short URL: https://git.io/secres
 
 ### Container
 
-- Practical Docker Security: https://docs.google.com/presentation/d/1jZkq-osQYOCcpR6gU2V1M7JvM4MsazcgVpvGqOUIh-s/edit#slide=id.g4405d38279_0_218
 - Bad Pods: Kubernetes Pod Privilege Escalation: https://labs.bishopfox.com/tech-blog/bad-pods-kubernetes-pod-privilege-escalation#pod8
+- Docker Security
+  - Practical Docker Security: https://docs.google.com/presentation/d/1jZkq-osQYOCcpR6gU2V1M7JvM4MsazcgVpvGqOUIh-s/edit#slide=id.g4405d38279_0_218
+  - Docker.com: Docker Security Concepts: https://docs.docker.com/engine/security/security/
+  - Docker Security Blogpost: https://blog.sqreen.com/docker-security/
+  - 7 Docker Security Vulnerabilities: https://sysdig.com/blog/7-docker-security-vulnerabilities/
+  - Docker.com: Docker Breakout in 2014: https://blog.docker.com/2014/06/docker-container-breakout-proof-of-concept-exploit/
+  - Understanding Docker Container Escapes: https://blog.trailofbits.com/2019/07/19/understanding-docker-container-escapes/
+  - Docker & Capabilities by RedHat: https://www.redhat.com/en/blog/secure-your-containers-one-weird-trick
+  - Docker.com: Seccomp: https://docs.docker.com/engine/security/seccomp/
+  - Docker Capabilities and no-new-privileges: https://raesene.github.io/blog/2019/06/01/docker-capabilities-and-no-new-privs/
+  - Dockerfile Best Practices: https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+  - Docker Images 10 Tips: https://snyk.io/blog/10-docker-image-security-best-practices/
 
 ### Hacking Environments
 
