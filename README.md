@@ -124,6 +124,7 @@ Short URL: https://git.io/secres
 - OpenID Connect & OAuth 2.0 - Security Best Practices, Dominick Baier, 2020: https://www.youtube.com/watch?v=AUgZffkurK0
 - OAuth 2.0 for Browser-Based Apps: https://tools.ietf.org/html/draft-ietf-oauth-browser-based-apps-07
 - OIDC Discovery: https://auth0.com/docs/protocols/configure-applications-with-oidc-discovery)
+- Real-life OIDC Security: https://security.lauritz-holtmann.de/post/sso-security-overview/
 
 ### Cross-Site Scripting (XSS)
 
@@ -327,6 +328,7 @@ Short URL: https://git.io/secres
   - The Dog Whisperer's Handbook: https://www.ernw.de/download/BloodHoundWorkshop/ERNW_DogWhispererHandbook.pdf
   - Not A Security Boundary: Breaking Forest Trusts: https://posts.specterops.io/not-a-security-boundary-breaking-forest-trusts-cd125829518d
   - Attacking Active Directory: 0 to 0.9: https://zer1t0.gitlab.io/posts/attacking_ad/?s=09
+  - Windows & Active Directory Exploitation Cheat Sheet and Command Reference: https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/
 - Kerberos
   - CVE-2020-17049: Kerberos Bronze Bit Attack Theory: https://www.netspi.com/blog/technical/network-penetration-testing/cve-2020-17049-kerberos-bronze-bit-theory/
   - Wagging the Dog: Abusing Resource-Based Constrained Delegation to Attack Active Directory: https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html
@@ -367,9 +369,12 @@ Short URL: https://git.io/secres
   - Docker.com: Seccomp: https://docs.docker.com/engine/security/seccomp/
   - Docker Capabilities and no-new-privileges: https://raesene.github.io/blog/2019/06/01/docker-capabilities-and-no-new-privs/
   - Dockerfile Best Practices: https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+  - Dockerfile Security Best Practices: https://cloudberry.engineering/article/dockerfile-security-best-practices/
   - Docker Images 10 Tips: https://snyk.io/blog/10-docker-image-security-best-practices/
 - Kubernetes
   - Bad Pods: Kubernetes Pod Privilege Escalation: https://labs.bishopfox.com/tech-blog/bad-pods-kubernetes-pod-privilege-escalation#pod8
+  - Talk "Kubernetes from an Attacker's Perspective" by Abhisek Datta: https://www.youtube.com/watch?v=aloi74MH4zk
+  - Talk "Advanced Persistence Threats: The Future of Kubernetes Attacks" by Ian Coldwater and Ian Coldwater: https://www.youtube.com/watch?v=CH7S5rE3j8w
 
 ### Hacking Environments
 
