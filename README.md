@@ -241,7 +241,6 @@ Short URL: https://git.io/secres
 ### Online Services
 
 - PortQuiz: http://portquiz.net/
-- xip.io (wildcard DNS): http://xip.io/
 - nip.io (wildcard DNS): https://nip.io/
 - RequestBin.NET: http://requestbin.net/
 - Various useful tools: https://h.43z.one/
