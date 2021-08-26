@@ -226,6 +226,7 @@ Short URL: https://git.io/secres
 ### General
 
 - Hacking Tools Cheat Sheet: https://github.com/CompassSecurity/Hacking_Tools_Cheat_Sheet
+- Porchetta Industries OpenSource Tools Support: https://porchetta.industries/
 
 ### Information Gathering & Wordlists
 
