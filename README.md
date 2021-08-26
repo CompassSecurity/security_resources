@@ -155,6 +155,7 @@ Short URL: https://git.io/secres
 
 - JWT Decoder/Encoder: https://jwt.io/
 - PentesterLab JWT Cheat Sheet: https://assets.pentesterlab.com/jwt_security_cheatsheet/jwt_security_cheatsheet.pdf
+- JWT Tool for testing: https://github.com/ticarpi/jwt_tool
 - Convert JWK to PEM:
   - Crypto Playground: https://8gwifi.org/jwkconvertfunctions.jsp
   - Keytool: https://keytool.online/
