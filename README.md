@@ -379,6 +379,7 @@ Short URL: https://git.io/secres
   - Bad Pods: Kubernetes Pod Privilege Escalation: https://labs.bishopfox.com/tech-blog/bad-pods-kubernetes-pod-privilege-escalation#pod8
   - Talk "Kubernetes from an Attacker's Perspective" by Abhisek Datta: https://www.youtube.com/watch?v=aloi74MH4zk
   - Talk "Advanced Persistence Threats: The Future of Kubernetes Attacks" by Ian Coldwater and Ian Coldwater: https://www.youtube.com/watch?v=CH7S5rE3j8w
+  - Kubernetes Security Jupyter Notebooks: https://github.com/thomasfricke/training-kubernetes-security
 
 ### Hacking Environments
 
