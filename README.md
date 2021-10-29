@@ -350,9 +350,12 @@ Short URL: https://git.io/secres
   - Responder: https://github.com/lgandx/Responder
   - CrackMapExec: https://github.com/byt3bl33d3r/CrackMapExec
   - CredNinja: https://github.com/Raikia/CredNinja
-  - BloodHound: https://github.com/BloodHoundAD/BloodHound
-  - Compass Custom BloodHound Queries: https://github.com/CompassSecurity/BloodHoundQueries
-  - PingCastle: https://www.pingcastle.com/
+  - BloodHound
+    - Project Page: https://github.com/BloodHoundAD/BloodHound
+    - Compass Custom BloodHound Queries: https://github.com/CompassSecurity/BloodHoundQueries
+  - PingCastle
+    - Project Page: https://www.pingcastle.com/
+    - Healthcheck Rules: https://www.pingcastle.com/PingCastleFiles/ad_hc_rules_list.html
   - Kerbrute: https://github.com/ropnop/kerbrute
 
 ### Cloud
