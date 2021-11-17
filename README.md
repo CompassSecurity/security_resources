@@ -177,7 +177,8 @@ Short URL: https://git.io/secres
 ### Tools
 
 - Burp Suite: https://portswigger.net/burp/communitydownload
-- sqlmap: http://sqlmap.org/
+- SQLMap: http://sqlmap.org/
+  - SQLMap cheat sheet: https://www.comparitech.com/net-admin/sqlmap-cheat-sheet/
 - Burp Suite Extensions
   - Burp Suite Extensions Overview: https://apps.burpsuite.guide/
   - SAML Raider: https://portswigger.net/bappstore/c61cfa893bb14db4b01775554f7b802e, https://github.com/CompassSecurity/SAMLRaider
