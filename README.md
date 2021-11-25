@@ -300,11 +300,28 @@ Short URL: https://git.io/secres
 
 ### Cracking
 
-- Ncrack: https://nmap.org/ncrack/
-- Hydra: https://github.com/vanhauser-thc/thc-hydra
-- Hashcat: https://hashcat.net/hashcat/
-- John The Ripper: https://www.openwall.com/john/
-- Talk "G1234! - Password Cracking 201: Beyond the Basics - Royce Williams": https://www.youtube.com/watch?v=cSOjQI0qbuU
+- General Information
+  - Talk "G1234! - Password Cracking 201: Beyond the Basics - Royce Williams": https://www.youtube.com/watch?v=cSOjQI0qbuU
+- Online Brute Force Tools
+  - Ncrack: https://nmap.org/ncrack/
+  - Hydra: https://github.com/vanhauser-thc/thc-hydra
+- Offline Brute Force Tools
+  - Name-That-Hash: https://github.com/HashPals/Name-That-Hash
+  - Hashcat: https://hashcat.net/hashcat/
+  - John The Ripper: https://www.openwall.com/john/
+- Offline Burte Force Services
+  - CrackStation: https://crackstation.net/
+  - Crack.sh (DES Cracker): https://crack.sh/
+- Wordlists
+  - Password Lists from SecLists: https://github.com/danielmiessler/SecLists/tree/master/Passwords
+  - CrackStation Dictionary: https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm
+  - PWDB - New generation of Password Mass-Analysis: https://github.com/ignis-sec/Pwdb-Public
+- Rules
+  - NSA Rules: https://github.com/NSAKEY/nsa-rules
+  - Hob0Rules: https://github.com/praetorian-inc/Hob0Rules
+  - Corporate Rule: https://github.com/sparcflow/StratJumbo/blob/master/chap3/corporate.rule
+  - OneRuleToRuleThemAll: https://github.com/NotSoSecure/password_cracking_rules
+  - Hashcat Rules: https://github.com/hashcat/hashcat/tree/master/rules (e.g. best64 rule)
 
 ### Linux Privilege Escalation
 
