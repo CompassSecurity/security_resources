@@ -362,6 +362,9 @@ Short URL: https://git.io/secres
   - Wagging the Dog: Abusing Resource-Based Constrained Delegation to Attack Active Directory: https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html
   - Active Directory Security Risk #101: Kerberos Unconstrained Delegation (or How Compromise of a Single Server Can Compromise the Domain): https://adsecurity.org/?p=1667
   - Kerberos Attack Cheat Sheet: https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a
+- Active Directory Certificate Services
+  - Abusing Active Directory Certificate Services Whitepaper: https://specterops.io/assets/resources/Certified_Pre-Owned.pdf
+  - Abusing Active Directory Certificate Services Blogpost: https://posts.specterops.io/certified-pre-owned-d95910965cd2
 - Best Practices
   - Domain-Join Computers the Proper Way: https://blog.compass-security.com/2020/03/domain-join-computers-the-proper-way/
 - Tools
