@@ -20,13 +20,18 @@ Short URL: https://git.io/secres
 ### Link Lists
 
 - Awesome Security: https://github.com/sbilly/awesome-security
-- Payload All The Things: https://github.com/swisskyrepo/PayloadsAllTheThings
-- HackTricks: https://book.hacktricks.xyz/
 - InfoSec Reference That Doesn't Suck!(Much): https://rmusser.net/docs/index.html
 - Awesome Penetration Testing: https://github.com/enaqx/awesome-pentest
-- Public Pentest Reports: https://github.com/juliocesarfort/public-pentesting-reports
 - Security Checklists from pentestlab.blog: https://github.com/netbiosX/Checklists
 - Security Tools Collection: https://tools.tldr.run/
+- Public Pentest Reports: https://github.com/juliocesarfort/public-pentesting-reports
+
+### Hacking-Notebooks
+
+- Payload All The Things: https://github.com/swisskyrepo/PayloadsAllTheThings
+- HackTricks: https://book.hacktricks.xyz/
+- Red Teaming Experiments: https://www.ired.team/
+- Pentester's promiscuous Notebook: https://ppn.snovvcrash.rocks/ (by snovvcrash https://snovvcrash.rocks/)
 
 ### Tutorials
 
