@@ -182,7 +182,7 @@ Short URL: https://git.io/secres
 ### Tools
 
 - Burp Suite: https://portswigger.net/burp/communitydownload
-- SQLMap: http://sqlmap.org/
+- SQLMap: https://sqlmap.org/
   - SQLMap cheat sheet: https://www.comparitech.com/net-admin/sqlmap-cheat-sheet/
 - Burp Suite Extensions
   - Burp Suite Extensions Overview: https://apps.burpsuite.guide/
@@ -193,7 +193,7 @@ Short URL: https://git.io/secres
 ### Hacking Environments
 
 - OWASP Web Goat: https://owasp.org/www-project-webgoat/
-- Damn Vulnerable Web Application: http://www.dvwa.co.uk/
+- Damn Vulnerable Web Application: https://www.dvwa.co.uk/
 - OWASP JuiceShop: https://owasp.org/www-project-juice-shop/
 
 ## Transport Layer Security (TLS) 🔐
@@ -246,14 +246,16 @@ Short URL: https://git.io/secres
 - FuzzDB: https://github.com/fuzzdb-project/fuzzdb
 - SecLists: https://github.com/danielmiessler/SecLists
 - Rapid7 Open Data: https://opendata.rapid7.com/
+- CeWL: https://github.com/digininja/CeWL
 
 ### Online Services
 
 - PortQuiz: http://portquiz.net/
 - nip.io (wildcard DNS): https://nip.io/
-- RequestBin.NET: http://requestbin.net/
+- RequestBin.NET: https://requestbin.net/
+- ngrok: https://ngrok.com/
 - Various useful tools: https://h.43z.one/
-  - Request Logger: http://log.43z.one/
+  - Request Logger: https://log.43z.one/
   - IP Address Convertor (useful for SSRF): https://h.43z.one/ipconverter/
 
 ### Scanning
