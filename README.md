@@ -20,14 +20,20 @@ Short URL: https://git.io/secres
 ### Link Lists
 
 - Awesome Security: https://github.com/sbilly/awesome-security
-- Payload All The Things: https://github.com/swisskyrepo/PayloadsAllTheThings
-- HackTricks: https://book.hacktricks.xyz/
 - InfoSec Reference That Doesn't Suck!(Much): https://rmusser.net/docs/index.html
 - Awesome Penetration Testing: https://github.com/enaqx/awesome-pentest
-- Public Pentest Reports: https://github.com/juliocesarfort/public-pentesting-reports
 - Security Checklists from pentestlab.blog: https://github.com/netbiosX/Checklists
 - Security Tools Collection: https://tools.tldr.run/
+- Public Pentest Reports: https://github.com/juliocesarfort/public-pentesting-reports
 - Security Zines: https://securityzines.com/
+
+### Hacking-Notebooks
+
+- Payload All The Things: https://github.com/swisskyrepo/PayloadsAllTheThings
+- HackTricks: https://book.hacktricks.xyz/
+- Red Teaming Experiments: https://www.ired.team/
+- Pentester's promiscuous Notebook: https://ppn.snovvcrash.rocks/ (by snovvcrash https://snovvcrash.rocks/)
+>>>>>>> refs/remotes/origin/main
 
 ### Tutorials
 
@@ -178,7 +184,7 @@ Short URL: https://git.io/secres
 ### Tools
 
 - Burp Suite: https://portswigger.net/burp/communitydownload
-- SQLMap: http://sqlmap.org/
+- SQLMap: https://sqlmap.org/
   - SQLMap cheat sheet: https://www.comparitech.com/net-admin/sqlmap-cheat-sheet/
 - Burp Suite Extensions
   - Burp Suite Extensions Overview: https://apps.burpsuite.guide/
@@ -189,7 +195,7 @@ Short URL: https://git.io/secres
 ### Hacking Environments
 
 - OWASP Web Goat: https://owasp.org/www-project-webgoat/
-- Damn Vulnerable Web Application: http://www.dvwa.co.uk/
+- Damn Vulnerable Web Application: https://www.dvwa.co.uk/
 - OWASP JuiceShop: https://owasp.org/www-project-juice-shop/
 
 ## Transport Layer Security (TLS) 🔐
@@ -242,14 +248,16 @@ Short URL: https://git.io/secres
 - FuzzDB: https://github.com/fuzzdb-project/fuzzdb
 - SecLists: https://github.com/danielmiessler/SecLists
 - Rapid7 Open Data: https://opendata.rapid7.com/
+- CeWL: https://github.com/digininja/CeWL
 
 ### Online Services
 
 - PortQuiz: http://portquiz.net/
 - nip.io (wildcard DNS): https://nip.io/
-- RequestBin.NET: http://requestbin.net/
+- RequestBin.NET: https://requestbin.net/
+- ngrok: https://ngrok.com/
 - Various useful tools: https://h.43z.one/
-  - Request Logger: http://log.43z.one/
+  - Request Logger: https://log.43z.one/
   - IP Address Convertor (useful for SSRF): https://h.43z.one/ipconverter/
 
 ### Scanning
@@ -358,6 +366,9 @@ Short URL: https://git.io/secres
   - Wagging the Dog: Abusing Resource-Based Constrained Delegation to Attack Active Directory: https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html
   - Active Directory Security Risk #101: Kerberos Unconstrained Delegation (or How Compromise of a Single Server Can Compromise the Domain): https://adsecurity.org/?p=1667
   - Kerberos Attack Cheat Sheet: https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a
+- Active Directory Certificate Services
+  - Abusing Active Directory Certificate Services Whitepaper: https://specterops.io/assets/resources/Certified_Pre-Owned.pdf
+  - Abusing Active Directory Certificate Services Blogpost: https://posts.specterops.io/certified-pre-owned-d95910965cd2
 - Best Practices
   - Domain-Join Computers the Proper Way: https://blog.compass-security.com/2020/03/domain-join-computers-the-proper-way/
 - Tools
