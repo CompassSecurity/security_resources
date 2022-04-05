@@ -27,6 +27,7 @@ Short URL: https://git.io/secres
 - Public Pentest Reports: https://github.com/juliocesarfort/public-pentesting-reports
 - Security Checklists from pentestlab.blog: https://github.com/netbiosX/Checklists
 - Security Tools Collection: https://tools.tldr.run/
+- Security Zines: https://securityzines.com/
 
 ### Tutorials
 
