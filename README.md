@@ -33,7 +33,6 @@ Short URL: https://git.io/secres
 - HackTricks: https://book.hacktricks.xyz/
 - Red Teaming Experiments: https://www.ired.team/
 - Pentester's promiscuous Notebook: https://ppn.snovvcrash.rocks/ (by snovvcrash https://snovvcrash.rocks/)
->>>>>>> refs/remotes/origin/main
 
 ### Tutorials
 
