@@ -139,6 +139,7 @@ Short URL: https://git.io/secres
 - PortSwigger XSS Cheat Sheet: https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 - XSS Payloads: https://html5sec.org/
 - XSS Hunter: https://xsshunter.com/
+- XSS Polyglot: https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot
 - Script Gadgets: https://github.com/google/security-research-pocs (bypass overview: https://github.com/google/security-research-pocs/blob/master/script-gadgets/bypasses.md)
 - Browser Exploitation Framework (BeEF): https://beefproject.com/
 - Attack Examples
