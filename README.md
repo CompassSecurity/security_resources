@@ -368,6 +368,12 @@ Short URL: https://git.io/secres
   - Attacking Active Directory: 0 to 0.9: https://zer1t0.gitlab.io/posts/attacking_ad/?s=09
   - Windows & Active Directory Exploitation Cheat Sheet and Command Reference: https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/
 - Kerberos
+  - Introduction Videos by ATTL4S (https://twitter.com/DaniLJ94)
+    - You Do (Not) Understand Kerberos: Introduction: https://www.youtube.com/watch?v=4LDpb1R3Ghg
+    - You Do (Not) Understand Kerberos Delegation - Introduction: https://www.youtube.com/watch?v=p9QFdITuvgU
+    - You Do (Not) Understand Kerberos Delegation - Unconstrained Delegation: https://www.youtube.com/watch?v=xDFRUYv1-eU&t=580s
+    - You Do (Not) Understand Kerberos Delegation - Constrained Delegation: https://www.youtube.com/watch?v=gzqq2r6cZjc&t=2288s
+    - You Do (Not) Understand Kerberos Delegation - RBCD: https://www.youtube.com/watch?v=vlKwCTvp5_w&t=1185s
   - CVE-2020-17049: Kerberos Bronze Bit Attack Theory: https://www.netspi.com/blog/technical/network-penetration-testing/cve-2020-17049-kerberos-bronze-bit-theory/
   - Wagging the Dog: Abusing Resource-Based Constrained Delegation to Attack Active Directory: https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html
   - Active Directory Security Risk #101: Kerberos Unconstrained Delegation (or How Compromise of a Single Server Can Compromise the Domain): https://adsecurity.org/?p=1667
