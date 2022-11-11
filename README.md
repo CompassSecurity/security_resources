@@ -307,9 +307,10 @@ Short URL: https://git.io/secres
 
 ### Exploiting
 
-- Metasploit: https://www.metasploit.com/
 - Vulnerability Database: https://cvedetails.com/
 - Exploit Database: https://www.exploit-db.com/
+- Metasploit: https://www.metasploit.com/
+- Reverse Shell Generator: https://www.revshells.com/
 - Hak5 Gadget Shop: https://shop.hak5.org/
 - Covenant: https://github.com/cobbr/Covenant
 
