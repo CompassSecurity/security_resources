@@ -364,6 +364,7 @@ Short URL: https://git.io/secres
 - Attacks / Methodologies
   - Active Directory Security: https://adsecurity.org/
   - AD Exploitation Cheat Sheet: https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
+  - Orange Cyberdefense Active Directory Pentest Mindmap: https://orange-cyberdefense.github.io/ocd-mindmaps/
   - The Dog Whisperer's Handbook: https://www.ernw.de/download/BloodHoundWorkshop/ERNW_DogWhispererHandbook.pdf
   - Not A Security Boundary: Breaking Forest Trusts: https://posts.specterops.io/not-a-security-boundary-breaking-forest-trusts-cd125829518d
   - Attacking Active Directory: 0 to 0.9: https://zer1t0.gitlab.io/posts/attacking_ad/?s=09
