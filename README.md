@@ -385,6 +385,7 @@ Short URL: https://git.io/secres
   - Abusing Active Directory Certificate Services Blogpost: https://posts.specterops.io/certified-pre-owned-d95910965cd2
 - Best Practices
   - Domain-Join Computers the Proper Way: https://blog.compass-security.com/2020/03/domain-join-computers-the-proper-way/
+  - Administrative Tier Model (Archived Article): https://web.archive.org/web/20201210154206/https://docs.microsoft.com/en-us/windows-[…]ivileged-access/securing-privileged-access-reference-material
 - Tools
   - Sysinternals: https://docs.microsoft.com/en-us/sysinternals/#sysinternals-live
   - Sysinternals Direct Download: https://live.sysinternals.com/
