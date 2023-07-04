@@ -462,3 +462,14 @@ Short URL: https://git.io/secres
 - F-Secure Android Keystore Audit
   - Blogpost: https://labs.f-secure.com/blog/how-secure-is-your-android-keystore-authentication/
   - GitHub Project: https://github.com/FSecureLABS/android-keystore-audit
+
+## Security for Small and medium-sized enterprises (SMEs) 🖖
+
+- Merkblatt Informationssicherheit für KMUs vom Nationales Zentrum für Cybersicherheit NCSC: https://www.ncsc.admin.ch/dam/ncsc/de/dokumente/infos-unternehmen/ncsc-merkblatt-kmu-sicherheit.pdf.download.pdf/ncsc-merkblatt-kmu-sicherheit_de.pdf
+- Generelle Informationen zu Cyber Security für Unternehmen: https://www.ibarry.ch/de/
+- Resourcen von der Polizei Bern: https://www.cyber.police.be.ch/de/start/informationen-fuer-kmu.html insbesondere interessant für euch:
+  - Cyberdelikte verhindern - Wegleitung für KMU: https://www.cyber.police.be.ch/content/dam/police/dokumente/cyber/d/broschuere-cyberdelikte-verhindern-de.pdf
+  - Zehn Tipps, um Cyberangriffe zu verhindern: https://www.cyber.police.be.ch/content/dam/police/dokumente/cyber/d/cybercrime-zehn-tipps-de.pdf
+  - Selbstassessment für die Unternehmensleitung: https://www.cyber.police.be.ch/content/dam/police/dokumente/cyber/d/selbstassessment-de.pdf
+  - Cyberattacke - wie sich schützen. Checkliste für Unternehmensleitung: https://www.cyber.police.be.ch/content/dam/police/dokumente/cyber/d/checkliste-cyberattacke-unternehmensleitung-de.pdf
+- Cyber Security für Kleine und Mittlere Unternehmen: https://www.enisa.europa.eu/publications/enisa-report-cybersecurity-for-smes/@@download/fullReport
