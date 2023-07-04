@@ -424,6 +424,7 @@ Short URL: https://git.io/secres
   - Dockerfile Best Practices: https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
   - Dockerfile Security Best Practices: https://cloudberry.engineering/article/dockerfile-security-best-practices/
   - Docker Images 10 Tips: https://snyk.io/blog/10-docker-image-security-best-practices/
+  - How to Keep Docker Secrets Secure: Complete Guide: https://spacelift.io/blog/docker-secrets
 - Kubernetes
   - Bad Pods: Kubernetes Pod Privilege Escalation: https://labs.bishopfox.com/tech-blog/bad-pods-kubernetes-pod-privilege-escalation#pod8
   - Talk "Kubernetes from an Attacker's Perspective" by Abhisek Datta: https://www.youtube.com/watch?v=aloi74MH4zk
