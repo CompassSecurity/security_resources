@@ -11,8 +11,7 @@ Short URL: https://git.io/secres
 
 - Compass Security: https://compass-security.com/de/
 - Compass Security Blog: https://blog.compass-security.com/
-- Hacking Lab 1.0: https://www.hacking-lab.com/
-- Hacking Lab 2.0: https://compass.hacking-lab.com/
+- Hacking Lab: https://compass.hacking-lab.com/
 - Hacking Lab Live CD: https://livecd.hacking-lab.com/
 
 ## General 🌳
