@@ -339,6 +339,39 @@ Short URL: https://git.io/secres
   - OneRuleToRuleThemAll: https://github.com/NotSoSecure/password_cracking_rules
   - Hashcat Rules: https://github.com/hashcat/hashcat/tree/master/rules (e.g. best64 rule)
 
+### Website Categories & Reputation
+
+Check category:
+
+- FortiGuard Secure DNS Service: https://www.fortiguard.com/services/sdns
+- SafeDNS: https://www.safedns.com/check/
+- BrightCloud: https://www.brightcloud.com/tools/url-ip-lookup.php
+- Cyren URL Category Check: https://data443.com/cyren-url-category-check-gate/
+- OpenDNS Domain Tagging: https://community.opendns.com/domaintagging/
+- Symantec WebPulse Site Review Request: https://sitereview.bluecoat.com/
+- FortiGuard Web Filter Category List: https://www.fortiguard.com/webfilter/categories
+- Cisco Talos
+    - https://www.talosintelligence.com/categories
+    - https://talosintelligence.com/reputation_center/lookup
+- IPVOID DNS Reputation: https://www.ipvoid.com/dns-reputation/
+- VirusTotal URLs: https://www.virustotal.com/gui/home/search
+
+Further information:
+
+- Fortinet Webfilter Categories: https://www.fortiguard.com/webfilter
+- Malwarebytes Web Categories: https://support.threatdown.com/hc/en-us/articles/6055004665491-Configure-DNS-Filtering-rules-in-Nebula#Security_categories_3
+- Cloudflare DNS FIltering Test: https://developers.cloudflare.com/cloudflare-one/policies/gateway/dns-policies/test-dns-filtering/
+
+Firefox Malicious Testsites:
+
+- Phishing Test Site: https://itisatrap.org/firefox/its-a-trap.html
+- Malware Test Site: https://itisatrap.org/firefox/its-an-attack.html
+- Unwanted Software Test Site: https://itisatrap.org/firefox/unwanted.html
+
+Possible domains for bypasses:
+
+- Living Off Trusted Sites (LOTS) Project: https://lots-project.com/
+
 ### Linux Privilege Escalation
 
 - Enumeration
