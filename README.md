@@ -239,7 +239,7 @@ Short URL: https://git.io/secres
 
 ### Information Gathering & Wordlists
 
-- Amass: https://github.com/OWASP/Amass
+- Amass: https://github.com/owasp-amass/amass
 - Sublist3r: https://github.com/aboul3la/Sublist3r
 - Shodan: https://www.shodan.io/
 - Censys: https://censys.io/
@@ -249,6 +249,7 @@ Short URL: https://git.io/secres
 - SecLists: https://github.com/danielmiessler/SecLists
 - Rapid7 Open Data: https://opendata.rapid7.com/
 - CeWL: https://github.com/digininja/CeWL
+- Xquik (Independent X/Twitter search, followers, monitors, MCP): https://github.com/Xquik-dev/x-twitter-scraper
 
 ### Online Services
 
