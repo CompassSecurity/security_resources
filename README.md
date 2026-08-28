@@ -469,6 +469,7 @@ Possible domains for bypasses:
 
 ### Hacking Environments
 
+- LabEx Cybersecurity Labs: https://labex.io/learn/cybersecurity
 - Hack the Box: https://www.hackthebox.eu/
 - Hack the Box Academy: https://academy.hackthebox.eu/
 - PentesterLab: https://pentesterlab.com/
