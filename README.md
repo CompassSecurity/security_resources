@@ -36,6 +36,7 @@ Short URL: https://git.io/secres
 ### Tutorials
 
 - Various Security Tutorials by Prof. Andreas Steffen, strongSec GmbH: https://github.com/strongX509/cyber/
+- 150+ web, hardware, wireless... hacking tutorials, cryptography, defense & certification training (mostly free, some paywalled with a monthly, yearly or **lifetime** subscription): https://pwn.guide/
 
 ### Online Tools
 
