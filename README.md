@@ -294,6 +294,8 @@ Short URL: https://git.io/secres
 
 ### Protocols
 
+- SSH
+  - SSH Labs by Compass Security (Theory, Videos & Hands-On Labs): https://sshlabs.compass-security.training/
 - DNS
   - DNSViz (show DNSSEC chain): https://dnsviz.net/
   - Public .ch DNS Zone: https://www.switch.ch/open-data/#tab-c5442a19-67cf-11e8-9cf6-5254009dc73c-3
@@ -403,6 +405,7 @@ Possible domains for bypasses:
   - Attacking Active Directory: 0 to 0.9: https://zer1t0.gitlab.io/posts/attacking_ad/?s=09
   - Windows & Active Directory Exploitation Cheat Sheet and Command Reference: https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/
 - Kerberos
+- YouTube Kerberos Deep Dive Series by Compass Security: https://www.youtube.com/watch?v=pzrtfRpPVM4&list=PLyphfaqpz_mmCmFtVQxAu3jnE4lXPy3lL
   - Introduction Videos by ATTL4S (https://twitter.com/DaniLJ94)
     - You Do (Not) Understand Kerberos: Introduction: https://www.youtube.com/watch?v=4LDpb1R3Ghg
     - You Do (Not) Understand Kerberos Delegation - Introduction: https://www.youtube.com/watch?v=p9QFdITuvgU
@@ -431,7 +434,7 @@ Possible domains for bypasses:
   - CredNinja: https://github.com/Raikia/CredNinja
   - BloodHound
     - Project Page: https://github.com/BloodHoundAD/BloodHound
-    - Compass Custom BloodHound Queries: https://github.com/CompassSecurity/BloodHoundQueries
+    - Compass Custom BloodHound Queries: https://github.com/CompassSecurity/bloodhoundce-resources
   - PingCastle
     - Project Page: https://www.pingcastle.com/
     - Healthcheck Rules: https://www.pingcastle.com/PingCastleFiles/ad_hc_rules_list.html
